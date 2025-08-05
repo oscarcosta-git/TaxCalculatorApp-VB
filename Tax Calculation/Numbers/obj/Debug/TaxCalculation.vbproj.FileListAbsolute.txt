@@ -1,0 +1,13 @@
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\bin\Debug\Numbers.exe
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\bin\Debug\Numbers.xml
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\TaxCalculation.vbproj.AssemblyReference.cache
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\TaxCalculation.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\Numbers.Form1.resources
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\Numbers.Resources.resources
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\TaxCalculation.vbproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\TaxCalculation.vbproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\Numbers.exe
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\Numbers.xml
+C:\Users\Oscar\Desktop\Tax Calculation\Numbers\obj\Debug\Numbers.pdb
